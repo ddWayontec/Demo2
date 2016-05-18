@@ -14,6 +14,7 @@
 		5F92C9F41CEC3B4E00129024 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F92C9F21CEC3B4E00129024 /* LaunchScreen.storyboard */; };
 		5F92C9FF1CEC3B4E00129024 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F92C9FE1CEC3B4E00129024 /* Demo2Tests.swift */; };
 		5F92CA0A1CEC3B4E00129024 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F92CA091CEC3B4E00129024 /* Demo2UITests.swift */; };
+		5F92CA181CEC405600129024 /* testfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F92CA171CEC405600129024 /* testfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5F92CA051CEC3B4E00129024 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F92CA091CEC3B4E00129024 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		5F92CA0B1CEC3B4E00129024 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F92CA171CEC405600129024 /* testfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5F92C9E91CEC3B4E00129024 /* AppDelegate.swift */,
 				5F92C9EB1CEC3B4E00129024 /* ViewController.swift */,
+				5F92CA171CEC405600129024 /* testfile.swift */,
 				5F92C9ED1CEC3B4E00129024 /* Main.storyboard */,
 				5F92C9F01CEC3B4E00129024 /* Assets.xcassets */,
 				5F92C9F21CEC3B4E00129024 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F92C9EC1CEC3B4E00129024 /* ViewController.swift in Sources */,
+				5F92CA181CEC405600129024 /* testfile.swift in Sources */,
 				5F92C9EA1CEC3B4E00129024 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
